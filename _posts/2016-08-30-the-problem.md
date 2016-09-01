@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-08-30T05:35:57.964Z'
+datePublished: '2016-08-30T05:36:13.355Z'
 sourcePath: _posts/2016-08-30-the-problem.md
 inFeed: false
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-30T05:35:57.393Z'
+dateModified: '2016-08-30T05:36:09.360Z'
 title: The Problem
 id: 95464312-9dc9-46ee-a5f9-f7f623ee01fc
 publisher: {}
