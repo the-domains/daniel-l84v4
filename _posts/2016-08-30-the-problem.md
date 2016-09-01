@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-08-30T05:35:31.287Z'
+datePublished: '2016-08-30T05:35:46.300Z'
 inFeed: true
-hasPage: false
+hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-30T05:35:30.710Z'
+dateModified: '2016-08-30T05:35:45.710Z'
 title: The Problem
 id: 95464312-9dc9-46ee-a5f9-f7f623ee01fc
 publisher: {}
@@ -13,9 +13,10 @@ description: >-
   size, current plate and screw based implants are difficult and dangerous to
   use. Our client seeks a design that reduces the fracture and immobilizes it
   for the 6-8 month healing process.
-starred: false
 sourcePath: _posts/2016-08-30-the-problem.md
-_type: Blurb
+starred: false
+url: the-problem/index.html
+_type: Article
 
 ---
 ## The Problem
