@@ -1,11 +1,11 @@
-layout_spectrum: 0.2290236095432192
 typography_spectrum: 0.24913772684521973
 color:
   brandStrength: 0.8814000517595559
   lightness: 0.5921194017864764
   saturation: 0.11757304123602808
   rhythmicContrast: 0.9314351202920079
-name: daniel
+layout_spectrum: 0.2290236095432192
+name: condylarrepair
 navigation:
   - name: Forceps
     id: 9157a66c-5d8e-4012-9829-bc67cfd87620
@@ -16,3 +16,4 @@ navigation:
   - name: Fixation Clip
     id: 4d41cff9-8994-439d-a98d-5477bc9b88ff
     type: content
+description: "University of Victoria ~\_Biomedical Engineering\_~ 499 Capstone Design"
