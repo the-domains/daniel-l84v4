@@ -1,18 +1,18 @@
 ---
-datePublished: '2016-08-30T05:06:01.842Z'
+datePublished: '2016-08-30T17:05:42.516Z'
+sourcePath: _posts/2016-08-30-design-criteria.md
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-08-30T05:06:00.969Z'
-title: ''
+dateModified: '2016-08-30T17:05:41.188Z'
+title: Design Criteria
 publisher: {}
-description: Design Criteria
+description: ''
 starred: false
-sourcePath: _posts/2016-08-30-design-criteria.md
 _type: Blurb
 
 ---
-Design Criteria
+# Design Criteria
 
 * Reduce the variables during surgery
 * Reduce the surgery time, patient is anesthetized
