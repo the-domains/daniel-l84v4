@@ -5,6 +5,8 @@ color:
   saturation: 0.11757304123602808
   rhythmicContrast: 0.9314351202920079
 layout_spectrum: 0.2290236095432192
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/dc35dbbf-79ca-4755-906d-99845c314238.png
 name: condylarrepair
 navigation:
   - name: Forceps
@@ -19,5 +21,7 @@ navigation:
   - name: Contact & Design Team
     id: e5c04489-c7d8-41bf-a1fa-48e7b3a92c7e
     type: content
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/cf1381b8-674c-48dc-9369-7210e176a6ea.png
 title: Condylar Fracture Repair
 description: "University of Victoria ~\_Biomedical Engineering\_~ 499 Capstone Design"
