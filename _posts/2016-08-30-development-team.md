@@ -1,16 +1,14 @@
 ---
-datePublished: '2016-08-30T16:56:34.808Z'
+datePublished: '2016-08-30T16:56:42.038Z'
 sourcePath: _posts/2016-08-30-development-team.md
 inFeed: false
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-30T16:53:05.263Z'
+dateModified: '2016-08-30T16:56:41.530Z'
 title: Consultant Team
 publisher: {}
-description: >-
-  Dr. David Naysmith | Reconstructive Surgeon, Victoria Surgery | Associate
-  Professor, Uvic |
+description: 'Dr. David Naysmith | Reconstructive Surgeon, Victoria Surgery'
 starred: false
 url: consultant-team/index.html
 _type: Blurb
@@ -18,7 +16,7 @@ _type: Blurb
 ---
 # Consultant Team
 
-Dr. David Naysmith | Reconstructive Surgeon, Victoria Surgery | Associate Professor, Uvic |
+Dr. David Naysmith | Reconstructive Surgeon, Victoria Surgery
 
 Dr. Nikolai Dechev | Associate Professor, Uvic | [dechev@uvic.ca][0]
 
