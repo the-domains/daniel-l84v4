@@ -1,19 +1,19 @@
 ---
-datePublished: '2016-08-30T16:52:56.380Z'
+datePublished: '2016-08-30T16:56:34.808Z'
 sourcePath: _posts/2016-08-30-development-team.md
-inFeed: true
+inFeed: false
+hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-30T16:52:55.978Z'
+dateModified: '2016-08-30T16:53:05.263Z'
 title: Consultant Team
 publisher: {}
 description: >-
   Dr. David Naysmith | Reconstructive Surgeon, Victoria Surgery | Associate
   Professor, Uvic |
-hasPage: true
 starred: false
 url: consultant-team/index.html
-_type: Article
+_type: Blurb
 
 ---
 # Consultant Team
