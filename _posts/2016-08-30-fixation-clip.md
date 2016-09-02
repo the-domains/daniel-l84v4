@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-08-30T16:53:17.489Z'
+datePublished: '2016-08-30T16:53:19.729Z'
 sourcePath: _posts/2016-08-30-fixation-clip.md
 inFeed: false
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-30T16:53:14.163Z'
+dateModified: '2016-08-30T16:53:19.429Z'
 title: Fixation Clip
 publisher: {}
 description: >-
