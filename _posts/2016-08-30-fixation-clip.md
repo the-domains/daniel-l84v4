@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-08-30T16:39:05.512Z'
+datePublished: '2016-08-30T16:39:28.545Z'
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-08-30T16:38:53.072Z'
+dateModified: '2016-08-30T16:39:28.085Z'
 title: Fixation Clip
 publisher: {}
 description: >-
@@ -15,9 +15,11 @@ description: >-
   pressuring the fracture together. Inspired in part by the Raney clip used to
   hold back the scalp during craniotomies, the clip is manufactured in the
   relaxed position.
-starred: false
 sourcePath: _posts/2016-08-30-fixation-clip.md
-_type: Blurb
+hasPage: true
+starred: false
+url: fixation-clip/index.html
+_type: Article
 
 ---
 # Fixation Clip
