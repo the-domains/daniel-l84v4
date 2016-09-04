@@ -1,27 +1,14 @@
+layout_spectrum: 0.2290236095432192
 typography_spectrum: 0.24913772684521973
 color:
   brandStrength: 0.8814000517595559
   lightness: 0.5921194017864764
   saturation: 0.11757304123602808
   rhythmicContrast: 0.9314351202920079
-layout_spectrum: 0.2290236095432192
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/dc35dbbf-79ca-4755-906d-99845c314238.png
-name: condylarrepair
-navigation:
-  - name: Forceps
-    id: 9157a66c-5d8e-4012-9829-bc67cfd87620
-    type: content
-  - name: The Problem
-    id: 95464312-9dc9-46ee-a5f9-f7f623ee01fc
-    type: content
-  - name: Fixation Clip
-    id: 4d41cff9-8994-439d-a98d-5477bc9b88ff
-    type: content
-  - name: Contact & Design Team
-    id: e5c04489-c7d8-41bf-a1fa-48e7b3a92c7e
-    type: content
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/cf1381b8-674c-48dc-9369-7210e176a6ea.png
-title: Condylar Fracture Repair
-description: "University of Victoria ~\_Biomedical Engineering\_~ 499 Capstone Design"
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+name: daniel
